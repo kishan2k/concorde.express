@@ -1,0 +1,142 @@
+[01-May-2015 15:25:43 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 29
+[01-May-2015 15:26:08 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 29
+[01-May-2015 16:05:58 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/storage/framework/views/f33cce87ccb7eac28d6c0b8df22dcdb8 on line 14
+[01-May-2015 16:06:35 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/storage/framework/views/f33cce87ccb7eac28d6c0b8df22dcdb8 on line 14
+[01-May-2015 16:08:21 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/storage/framework/views/f33cce87ccb7eac28d6c0b8df22dcdb8 on line 14
+[01-May-2015 16:11:07 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/storage/framework/views/f33cce87ccb7eac28d6c0b8df22dcdb8 on line 9
+[01-May-2015 17:28:07 UTC] EasyPost Notice: Undefined property of EasyPost\Rate instance: Service
+[14-May-2015 15:41:18 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ShipmentController::store() in /home/ubuntu/workspace/app/Http/Controllers/ShipmentController.php on line 53
+[14-May-2015 15:41:19 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ShipmentController::store() in /home/ubuntu/workspace/app/Http/Controllers/ShipmentController.php on line 53
+[16-May-2015 11:59:17 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/ubuntu/workspace/storage/framework/views/28ec36efdbc3d3b3c0fa10f06d144e00 on line 124
+[17-May-2015 10:56:24 UTC] Shippo Notice: Undefined property of Shippo_Address instance: id
+[17-May-2015 12:17:32 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/ubuntu/workspace/storage/framework/views/28ec36efdbc3d3b3c0fa10f06d144e00 on line 76
+[18-May-2015 19:59:12 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 107
+[18-May-2015 19:59:25 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 107
+[18-May-2015 20:42:57 UTC] PHP Parse error:  syntax error, unexpected '$newShipment' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 114
+[18-May-2015 20:44:26 UTC] PHP Parse error:  syntax error, unexpected '$newShipment' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 119
+[18-May-2015 20:50:25 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 167
+[18-May-2015 20:50:34 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 167
+[18-May-2015 20:50:48 UTC] PHP Parse error:  syntax error, unexpected 'in' (T_STRING) in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 167
+[18-May-2015 20:53:49 UTC] Shippo Notice: Undefined property of Shippo_Object instance: provider
+[19-May-2015 09:36:31 UTC] Shippo Notice: Undefined property of Shippo_Object instance: provider
+[19-May-2015 09:37:47 UTC] PHP Fatal error:  Call to undefined function echojson_encode() in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 116
+[19-May-2015 09:43:21 UTC] Shippo Notice: Undefined property of Shippo_Object instance: provider
+[19-May-2015 11:38:44 UTC] Shippo Notice: Undefined property of Shippo_Object instance: provider
+[19-May-2015 11:39:39 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Shippo' not found in /home/ubuntu/workspace/app/Http/Controllers/ShipmentController.php on line 61
+[19-May-2015 11:40:18 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Shippo' not found in /home/ubuntu/workspace/app/Http/Controllers/ShipmentController.php on line 61
+[19-May-2015 11:42:08 UTC] Shippo Notice: Undefined property of Shippo_Object instance: provider
+[19-May-2015 11:42:28 UTC] Shippo Notice: Undefined property of Shippo_Object instance: provider
+[19-May-2015 12:05:17 UTC] PHP Fatal error:  Cannot use [] for reading in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 116
+[19-May-2015 12:18:54 UTC] PHP Fatal error:  Cannot use [] for reading in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 116
+[19-May-2015 13:52:20 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 145
+[19-May-2015 13:52:56 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 145
+[19-May-2015 14:42:40 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/storage/framework/views/1401e089a4f6471d6a0d8de3a7f5262a on line 24
+[19-May-2015 14:42:55 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/storage/framework/views/1401e089a4f6471d6a0d8de3a7f5262a on line 24
+[19-May-2015 23:15:43 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Role' not found in /home/ubuntu/workspace/app/Http/Controllers/HomeController.php on line 33
+[19-May-2015 23:18:07 UTC] PHP Fatal error:  Class 'Role' not found in /home/ubuntu/workspace/storage/framework/views/2f745fffec59908c91bb852e2f168ec6 on line 4
+[19-May-2015 23:19:37 UTC] PHP Fatal error:  Class 'Role' not found in /home/ubuntu/workspace/storage/framework/views/2f745fffec59908c91bb852e2f168ec6 on line 4
+[19-May-2015 23:20:06 UTC] PHP Fatal error:  Class 'Role' not found in /home/ubuntu/workspace/storage/framework/views/2f745fffec59908c91bb852e2f168ec6 on line 4
+[19-May-2015 23:20:19 UTC] PHP Fatal error:  Class 'app\models\Role' not found in /home/ubuntu/workspace/storage/framework/views/2f745fffec59908c91bb852e2f168ec6 on line 5
+[19-May-2015 23:21:09 UTC] PHP Fatal error:  Class 'app\Role' not found in /home/ubuntu/workspace/storage/framework/views/2f745fffec59908c91bb852e2f168ec6 on line 5
+[19-May-2015 23:21:31 UTC] PHP Fatal error:  Class 'app\Role' not found in /home/ubuntu/workspace/storage/framework/views/2f745fffec59908c91bb852e2f168ec6 on line 5
+[19-May-2015 23:21:32 UTC] PHP Fatal error:  Class 'app\Role' not found in /home/ubuntu/workspace/storage/framework/views/2f745fffec59908c91bb852e2f168ec6 on line 5
+[19-May-2015 23:22:34 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ';' in /home/ubuntu/workspace/storage/framework/views/2f745fffec59908c91bb852e2f168ec6 on line 4
+[19-May-2015 23:22:56 UTC] PHP Fatal error:  Class 'Role' not found in /home/ubuntu/workspace/storage/framework/views/2f745fffec59908c91bb852e2f168ec6 on line 5
+[19-May-2015 23:23:15 UTC] PHP Fatal error:  Class 'app\models\Role' not found in /home/ubuntu/workspace/storage/framework/views/2f745fffec59908c91bb852e2f168ec6 on line 5
+[19-May-2015 23:24:00 UTC] PHP Fatal error:  Class 'app\models\Role' not found in /home/ubuntu/workspace/storage/framework/views/2f745fffec59908c91bb852e2f168ec6 on line 5
+[19-May-2015 23:24:15 UTC] PHP Fatal error:  Class 'Role' not found in /home/ubuntu/workspace/storage/framework/views/2f745fffec59908c91bb852e2f168ec6 on line 5
+[19-May-2015 23:26:24 UTC] PHP Fatal error:  Class 'models\Role' not found in /home/ubuntu/workspace/storage/framework/views/2f745fffec59908c91bb852e2f168ec6 on line 7
+[19-May-2015 23:30:36 UTC] PHP Fatal error:  Class 'Role' not found in /home/ubuntu/workspace/app/Http/routes.php on line 17
+[19-May-2015 23:30:58 UTC] PHP Fatal error:  Class 'models\Role' not found in /home/ubuntu/workspace/app/Http/routes.php on line 17
+[19-May-2015 23:31:06 UTC] PHP Fatal error:  Class 'app\models\Role' not found in /home/ubuntu/workspace/app/Http/routes.php on line 17
+[19-May-2015 23:31:34 UTC] PHP Warning:  The use statement with non-compound name 'Role' has no effect in /home/ubuntu/workspace/app/Http/routes.php on line 2
+[19-May-2015 23:31:34 UTC] PHP Fatal error:  Class 'Role' not found in /home/ubuntu/workspace/app/Http/routes.php on line 17
+[19-May-2015 23:31:56 UTC] PHP Warning:  The use statement with non-compound name 'appRole' has no effect in /home/ubuntu/workspace/app/Http/routes.php on line 2
+[19-May-2015 23:31:56 UTC] PHP Fatal error:  Class 'Role' not found in /home/ubuntu/workspace/app/Http/routes.php on line 17
+[19-May-2015 23:31:58 UTC] PHP Fatal error:  Class 'Role' not found in /home/ubuntu/workspace/app/Http/routes.php on line 17
+[19-May-2015 23:34:23 UTC] PHP Fatal error:  Class 'User' not found in /home/ubuntu/workspace/app/Http/routes.php on line 18
+[19-May-2015 23:34:47 UTC] PHP Fatal error:  Class 'App\models\User' not found in /home/ubuntu/workspace/app/Http/routes.php on line 19
+[20-May-2015 10:54:57 UTC] PHP Fatal error:  Class 'User' not found in /home/ubuntu/workspace/app/Http/routes.php on line 19
+[20-May-2015 10:55:56 UTC] PHP Fatal error:  Class 'User' not found in /home/ubuntu/workspace/app/Http/routes.php on line 19
+[20-May-2015 11:01:20 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 215
+[20-May-2015 11:04:04 UTC] PHP Parse error:  syntax error, unexpected 'dd' (T_STRING) in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 104
+[20-May-2015 11:04:18 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: rate
+[20-May-2015 11:07:15 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: rate
+[20-May-2015 11:10:22 UTC] PHP Fatal error:  Undefined constant 'EasyPost\Shipment' in /home/ubuntu/workspace/storage/framework/views/1401e089a4f6471d6a0d8de3a7f5262a on line 8
+[20-May-2015 11:19:41 UTC] PHP Fatal error:  Call to undefined method EasyPost\Object::buy() in /home/ubuntu/workspace/storage/framework/views/1401e089a4f6471d6a0d8de3a7f5262a on line 11
+[20-May-2015 11:32:45 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: rate
+[20-May-2015 11:33:02 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: rate
+[20-May-2015 11:35:15 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: rate
+[20-May-2015 11:47:09 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: rate
+[20-May-2015 12:01:41 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: rate
+[20-May-2015 12:01:59 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: rate
+[20-May-2015 12:02:15 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: rate
+[20-May-2015 12:02:42 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: rate
+[20-May-2015 12:04:47 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: rate
+[20-May-2015 12:07:59 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: rate
+[20-May-2015 12:09:15 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: rate
+[20-May-2015 12:11:14 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: rate
+[20-May-2015 12:11:59 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: rate
+[20-May-2015 12:12:16 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: rate
+[20-May-2015 12:17:51 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: rate
+[20-May-2015 12:18:13 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: rate
+[20-May-2015 12:47:44 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: rate
+[20-May-2015 12:51:29 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: rate
+[20-May-2015 13:01:19 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: rate
+[20-May-2015 13:02:05 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: rate
+[21-May-2015 08:45:46 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:45:46 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:45:46 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:45:46 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:46:06 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:46:06 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:46:06 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:46:06 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:46:41 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:46:41 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:46:41 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:46:41 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:47:34 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:47:34 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:47:34 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:47:34 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:48:15 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:48:15 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:48:15 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:48:15 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:49:23 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:49:23 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:49:23 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:49:23 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:49:58 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:49:58 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:49:58 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:49:58 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:50:23 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:50:23 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:50:23 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:50:23 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:50:47 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:50:47 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:50:47 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:50:47 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:54:01 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:54:01 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:54:01 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 08:54:01 UTC] EasyPost Notice: Undefined property of EasyPost\Shipment instance: delivery_days
+[21-May-2015 15:15:29 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/ubuntu/workspace/storage/framework/views/1401e089a4f6471d6a0d8de3a7f5262a on line 13
+[21-May-2015 15:42:52 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 157
+[21-May-2015 15:48:02 UTC] PHP Parse error:  syntax error, unexpected '$shipment' (T_VARIABLE) in /home/ubuntu/workspace/storage/framework/views/1401e089a4f6471d6a0d8de3a7f5262a on line 12
+[21-May-2015 16:30:05 UTC] PHP Parse error:  syntax error, unexpected '$shipment' (T_VARIABLE) in /home/ubuntu/workspace/storage/framework/views/1401e089a4f6471d6a0d8de3a7f5262a on line 12
+[21-May-2015 16:30:09 UTC] PHP Parse error:  syntax error, unexpected '$shipment' (T_VARIABLE) in /home/ubuntu/workspace/storage/framework/views/1401e089a4f6471d6a0d8de3a7f5262a on line 12
+[21-May-2015 16:55:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 231
+[21-May-2015 16:55:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 231
+[21-May-2015 16:55:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 231
+[21-May-2015 16:56:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 229
+[21-May-2015 16:56:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 229
+[21-May-2015 16:56:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 229
+[21-May-2015 16:57:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 226
+[21-May-2015 18:45:06 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 214
+[21-May-2015 18:45:33 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 214
+[21-May-2015 18:46:05 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 150
+[21-May-2015 19:03:38 UTC] PHP Fatal error:  Call to undefined method Illuminate\View\Engines\CompilerEngine::assertEqual() in /home/ubuntu/workspace/storage/framework/views/c14d6b880abb69f3a29655402e36c76c on line 156

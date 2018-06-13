@@ -1,0 +1,189 @@
+[22-May-2015 10:35:41 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ambasana2k/public_html/devfiles/storage/framework/views/7e7922b0e71e0929e1dc8cb2b206c571 on line 39
+[25-May-2015 21:03:00 UTC] PHP Parse error:  syntax error, unexpected 'assetsb' (T_STRING) in /home/ambasana2k/public_html/devfiles/storage/framework/views/acd5435a22e88cb212cae9e6f806e2b7 on line 565
+[25-May-2015 21:04:00 UTC] PHP Parse error:  syntax error, unexpected 'assetsb' (T_STRING) in /home/ambasana2k/public_html/devfiles/storage/framework/views/acd5435a22e88cb212cae9e6f806e2b7 on line 565
+[25-May-2015 21:06:19 UTC] PHP Parse error:  syntax error, unexpected 'assetsb' (T_STRING) in /home/ambasana2k/public_html/devfiles/storage/framework/views/acd5435a22e88cb212cae9e6f806e2b7 on line 565
+[25-May-2015 21:06:37 UTC] PHP Parse error:  syntax error, unexpected 'assetsb' (T_STRING) in /home/ambasana2k/public_html/devfiles/storage/framework/views/acd5435a22e88cb212cae9e6f806e2b7 on line 565
+[25-May-2015 21:07:04 UTC] PHP Parse error:  syntax error, unexpected 'assetsb' (T_STRING) in /home/ambasana2k/public_html/devfiles/storage/framework/views/acd5435a22e88cb212cae9e6f806e2b7 on line 565
+[25-May-2015 21:07:16 UTC] PHP Parse error:  syntax error, unexpected 'assetsb' (T_STRING) in /home/ambasana2k/public_html/devfiles/storage/framework/views/acd5435a22e88cb212cae9e6f806e2b7 on line 566
+[26-May-2015 16:53:14 UTC] PHP Fatal error:  Cannot use Request as Request because the name is already in use in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/ConfigController.php on line 8
+[26-May-2015 16:53:30 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/ConfigController.php on line 8
+[26-May-2015 16:53:53 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Hash' not found in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/ConfigController.php on line 47
+[26-May-2015 16:54:15 UTC] PHP Fatal error:  Class 'App\Http\Controllers\User' not found in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/ConfigController.php on line 49
+[26-May-2015 16:54:28 UTC] PHP Fatal error:  Class 'App\Http\Controllers\User' not found in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/ConfigController.php on line 50
+[26-May-2015 16:59:30 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/ConfigController.php on line 50
+[26-May-2015 17:05:49 UTC] PHP Parse error:  syntax error, unexpected ''='' (T_CONSTANT_ENCAPSED_STRING) in /home/ambasana2k/public_html/devfiles/storage/framework/views/483f8feb80ae226f0c7b0e5f97e1123f on line 7
+[26-May-2015 17:12:40 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Redirect' not found in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/ConfigController.php on line 55
+[26-May-2015 17:34:29 UTC] PHP Parse error:  syntax error, unexpected 'DB' (T_STRING) in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/ConfigController.php on line 76
+[26-May-2015 17:34:40 UTC] PHP Parse error:  syntax error, unexpected 'DB' (T_STRING) in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/ConfigController.php on line 76
+[26-May-2015 17:35:39 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/ConfigController.php on line 75
+[26-May-2015 20:41:22 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/ambasana2k/public_html/devfiles/storage/framework/views/db9df8fa16a71feae9cf757c516f5383 on line 5
+[26-May-2015 21:38:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ambasana2k/public_html/devfiles/storage/framework/views/c0bf76846ea7e377fe67b99881fcb29a on line 53
+[26-May-2015 21:39:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ambasana2k/public_html/devfiles/storage/framework/views/c0bf76846ea7e377fe67b99881fcb29a on line 53
+[26-May-2015 21:48:47 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/ambasana2k/public_html/devfiles/storage/framework/views/c0bf76846ea7e377fe67b99881fcb29a on line 38
+[26-May-2015 21:49:07 UTC] PHP Parse error:  syntax error, unexpected ''=>'' (T_CONSTANT_ENCAPSED_STRING) in /home/ambasana2k/public_html/devfiles/storage/framework/views/c0bf76846ea7e377fe67b99881fcb29a on line 38
+[26-May-2015 22:48:37 UTC] PHP Parse error:  syntax error, unexpected 'DB' (T_STRING) in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/HomeController.php on line 61
+[26-May-2015 22:48:58 UTC] PHP Parse error:  syntax error, unexpected 'DB' (T_STRING) in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/HomeController.php on line 63
+[26-May-2015 22:49:12 UTC] PHP Fatal error:  Trait 'App\Http\Controllers\DB' not found in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/HomeController.php on line 4
+[26-May-2015 22:49:23 UTC] PHP Fatal error:  Trait 'App\Http\Controllers\db' not found in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/HomeController.php on line 4
+[26-May-2015 22:49:53 UTC] PHP Fatal error:  Trait 'App\Http\Controllers\DB' not found in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/HomeController.php on line 4
+[26-May-2015 22:50:05 UTC] PHP Fatal error:  Trait 'App\Http\Controllers\DB' not found in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/HomeController.php on line 4
+[27-May-2015 10:07:26 UTC] PHP Parse error:  syntax error, unexpected '===' (T_IS_IDENTICAL), expecting ')' in /home/ambasana2k/public_html/devfiles/storage/framework/views/18625268f8e6f1f0a5fd95f8251ee0c3 on line 54
+[27-May-2015 10:07:43 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ')' in /home/ambasana2k/public_html/devfiles/storage/framework/views/18625268f8e6f1f0a5fd95f8251ee0c3 on line 54
+[27-May-2015 10:08:03 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/ambasana2k/public_html/devfiles/storage/framework/views/18625268f8e6f1f0a5fd95f8251ee0c3 on line 54
+[27-May-2015 10:08:10 UTC] PHP Parse error:  syntax error, unexpected '===' (T_IS_IDENTICAL), expecting ')' in /home/ambasana2k/public_html/devfiles/storage/framework/views/18625268f8e6f1f0a5fd95f8251ee0c3 on line 54
+[27-May-2015 10:08:23 UTC] PHP Parse error:  syntax error, unexpected '===' (T_IS_IDENTICAL), expecting ')' in /home/ambasana2k/public_html/devfiles/storage/framework/views/18625268f8e6f1f0a5fd95f8251ee0c3 on line 54
+[27-May-2015 10:08:29 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ')' in /home/ambasana2k/public_html/devfiles/storage/framework/views/18625268f8e6f1f0a5fd95f8251ee0c3 on line 54
+[27-May-2015 10:12:11 UTC] PHP Parse error:  syntax error, unexpected ''metadata'' (T_CONSTANT_ENCAPSED_STRING) in /home/ambasana2k/public_html/devfiles/storage/framework/views/18625268f8e6f1f0a5fd95f8251ee0c3 on line 52
+[27-May-2015 10:12:23 UTC] PHP Parse error:  syntax error, unexpected '"metadata"' (T_CONSTANT_ENCAPSED_STRING) in /home/ambasana2k/public_html/devfiles/storage/framework/views/18625268f8e6f1f0a5fd95f8251ee0c3 on line 52
+[27-May-2015 10:24:32 UTC] PHP Parse error:  syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/ambasana2k/public_html/devfiles/storage/framework/views/18625268f8e6f1f0a5fd95f8251ee0c3 on line 59
+[27-May-2015 10:47:20 UTC] PHP Parse error:  syntax error, unexpected '===' (T_IS_IDENTICAL), expecting ')' in /home/ambasana2k/public_html/devfiles/storage/framework/views/18625268f8e6f1f0a5fd95f8251ee0c3 on line 55
+[27-May-2015 10:47:33 UTC] PHP Parse error:  syntax error, unexpected '===' (T_IS_IDENTICAL), expecting ')' in /home/ambasana2k/public_html/devfiles/storage/framework/views/18625268f8e6f1f0a5fd95f8251ee0c3 on line 55
+[27-May-2015 10:47:34 UTC] PHP Parse error:  syntax error, unexpected '===' (T_IS_IDENTICAL), expecting ')' in /home/ambasana2k/public_html/devfiles/storage/framework/views/18625268f8e6f1f0a5fd95f8251ee0c3 on line 55
+[27-May-2015 11:03:57 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ambasana2k/public_html/devfiles/storage/framework/views/18625268f8e6f1f0a5fd95f8251ee0c3 on line 61
+[27-May-2015 11:04:08 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ambasana2k/public_html/devfiles/storage/framework/views/18625268f8e6f1f0a5fd95f8251ee0c3 on line 61
+[27-May-2015 11:04:19 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ambasana2k/public_html/devfiles/storage/framework/views/18625268f8e6f1f0a5fd95f8251ee0c3 on line 62
+[27-May-2015 11:11:37 UTC] PHP Fatal error:  Call to undefined function array2json() in /home/ambasana2k/public_html/devfiles/storage/framework/views/18625268f8e6f1f0a5fd95f8251ee0c3 on line 28
+[27-May-2015 11:12:59 UTC] PHP Fatal error:  Call to undefined function array2json() in /home/ambasana2k/public_html/devfiles/storage/framework/views/18625268f8e6f1f0a5fd95f8251ee0c3 on line 28
+[27-May-2015 13:13:37 UTC] PHP Parse error:  syntax error, unexpected ''' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/HomeController.php on line 87
+[27-May-2015 13:15:07 UTC] PHP Fatal error:  Class 'sendwithus\API' not found in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/HomeController.php on line 77
+[27-May-2015 13:15:53 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(vendor/autoload.php): failed to open stream: No such file or directory' in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/HomeController.php:73
+Stack trace:
+#0 /home/ambasana2k/public_html/devfiles/app/Http/Controllers/HomeController.php(73): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require_once(ve...', '/home/ambasana2...', 73, Array)
+#1 /home/ambasana2k/public_html/devfiles/app/Http/Controllers/HomeController.php(73): App\Http\Controllers\HomeController::topup()
+#2 [internal function]: App\Http\Controllers\HomeController->topup()
+#3 /home/ambasana2k/public_html/devfiles/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(246): call_user_func_array(Array, Array)
+#4 /home/ambasana2k/public_html/devfiles/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(162): Illuminate\Routing\Controller->callAction('topup', Array)
+#5 /home/ambasana2k/public_html/devfiles/vendor/laravel/framewo in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/HomeController.php on line 73
+[27-May-2015 13:15:53 UTC] PHP Fatal error:  App\Http\Controllers\HomeController::topup(): Failed opening required 'vendor/autoload.php' (include_path='/home/ambasana2k/public_html/devfiles/vendor/phpunit/php-text-template:/home/ambasana2k/public_html/devfiles/vendor/phpunit/php-timer:.:/usr/lib/php:/usr/local/lib/php') in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/HomeController.php on line 73
+[27-May-2015 14:30:42 UTC] PHP Fatal error:  Class 'sendwithus\API' not found in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/HomeController.php on line 80
+[27-May-2015 15:58:22 UTC] PHP Fatal error:  Class 'Carbon' not found in /home/ambasana2k/public_html/devfiles/storage/framework/views/c0bf76846ea7e377fe67b99881fcb29a on line 120
+[27-May-2015 18:55:11 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ')' in /home/ambasana2k/public_html/devfiles/storage/framework/views/bd3c1a7ff5d2efb68712eb5580804797 on line 50
+[27-May-2015 18:55:23 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ')' in /home/ambasana2k/public_html/devfiles/storage/framework/views/bd3c1a7ff5d2efb68712eb5580804797 on line 49
+[27-May-2015 18:55:30 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/ambasana2k/public_html/devfiles/storage/framework/views/bd3c1a7ff5d2efb68712eb5580804797 on line 45
+[27-May-2015 19:26:42 UTC] sending email `tem_R6AkjNNSPBr7DU5uqjJvfk` to 
+
+[27-May-2015 19:26:42 UTC] Array
+(
+    [name] => Kishan
+    [address] => kishan@ambasana.co.uk
+)
+
+[27-May-2015 19:26:42 UTC] 
+with
+
+[27-May-2015 19:26:42 UTC] Array
+(
+    [email_data] => Array
+        (
+            [user_name] => Kishan
+            [added_credit] => 100
+            [remaining_credit] => 272.04
+        )
+
+    [email_id] => tem_R6AkjNNSPBr7DU5uqjJvfk
+    [recipient] => Array
+        (
+            [name] => Kishan
+            [address] => kishan@ambasana.co.uk
+        )
+
+)
+
+[27-May-2015 19:26:42 UTC] payload: {"email_data":{"user_name":"Kishan","added_credit":"100","remaining_credit":272.04},"email_id":"tem_R6AkjNNSPBr7DU5uqjJvfk","recipient":{"name":"Kishan","address":"kishan@ambasana.co.uk"}}
+
+[27-May-2015 19:26:42 UTC] path: https://api.sendwithus.com:443/api/v1/send
+
+[27-May-2015 19:27:43 UTC] sending email `tem_R6AkjNNSPBr7DU5uqjJvfk` to 
+
+[27-May-2015 19:27:43 UTC] Array
+(
+    [name] => Kishan
+    [address] => kishan@ambasana.co.uk
+)
+
+[27-May-2015 19:27:43 UTC] 
+with
+
+[27-May-2015 19:27:43 UTC] Array
+(
+    [email_data] => Array
+        (
+            [user_name] => Kishan
+            [added_credit] => 100
+            [remaining_credit] => 372.04
+        )
+
+    [email_id] => tem_R6AkjNNSPBr7DU5uqjJvfk
+    [recipient] => Array
+        (
+            [name] => Kishan
+            [address] => kishan@ambasana.co.uk
+        )
+
+)
+
+[27-May-2015 19:27:43 UTC] payload: {"email_data":{"user_name":"Kishan","added_credit":"100","remaining_credit":372.04},"email_id":"tem_R6AkjNNSPBr7DU5uqjJvfk","recipient":{"name":"Kishan","address":"kishan@ambasana.co.uk"}}
+
+[27-May-2015 19:27:43 UTC] path: https://api.sendwithus.com:443/api/v1/send
+
+[31-May-2015 13:42:58 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Request' not found in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/WelcomeController.php on line 39
+[31-May-2015 13:53:06 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Shippo' not found in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/WelcomeController.php on line 39
+[31-May-2015 13:54:04 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Shippo' not found in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/WelcomeController.php on line 40
+[31-May-2015 13:55:48 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Shippo_Shipment' not found in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/WelcomeController.php on line 75
+[31-May-2015 14:10:16 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 130968 bytes) in /home/ambasana2k/public_html/devfiles/vendor/laravel/framework/src/Illuminate/Support/helpers.php on line 119
+[31-May-2015 14:10:18 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 16384 bytes) in /home/ambasana2k/public_html/devfiles/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 538
+[31-May-2015 14:10:24 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 16384 bytes) in /home/ambasana2k/public_html/devfiles/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 538
+[12-Jun-2015 16:50:33 UTC] PHP Parse error:  syntax error, unexpected 'utoaddress' (T_STRING) in /home/ambasana2k/public_html/devfiles/storage/framework/views/1ef92608678490a127a2568247fbc870 on line 2
+[12-Jun-2015 17:01:07 UTC] PHP Parse error:  syntax error, unexpected 'utoaddress' (T_STRING) in /home/ambasana2k/public_html/devfiles/storage/framework/views/1ef92608678490a127a2568247fbc870 on line 2
+[12-Jun-2015 17:35:35 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/ambasana2k/public_html/devfiles/storage/framework/views/c6bc1d2190fcd6b804b3cbea2e58d205 on line 100
+[12-Jun-2015 17:35:49 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/ambasana2k/public_html/devfiles/storage/framework/views/c6bc1d2190fcd6b804b3cbea2e58d205 on line 100
+[12-Jun-2015 17:36:01 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/ambasana2k/public_html/devfiles/storage/framework/views/c6bc1d2190fcd6b804b3cbea2e58d205 on line 100
+[13-Jun-2015 17:47:23 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ambasana2k/public_html/devfiles/storage/framework/views/c0bf76846ea7e377fe67b99881fcb29a on line 101
+[13-Jun-2015 19:36:17 UTC] PHP Fatal error:  Class 'App\Http\Middleware\Auth' not found in /home/ambasana2k/public_html/devfiles/app/Http/Middleware/AdminMiddleware.php on line 16
+[13-Jun-2015 19:37:06 UTC] PHP Fatal error:  Class 'App\Http\Middleware\Auth' not found in /home/ambasana2k/public_html/devfiles/app/Http/Middleware/AdminMiddleware.php on line 16
+[13-Jun-2015 19:37:21 UTC] PHP Fatal error:  Class 'App\Http\Middleware\Auth' not found in /home/ambasana2k/public_html/devfiles/app/Http/Middleware/AdminMiddleware.php on line 16
+[13-Jun-2015 19:37:37 UTC] PHP Fatal error:  Class 'App\Http\Middleware\Auth' not found in /home/ambasana2k/public_html/devfiles/app/Http/Middleware/AdminMiddleware.php on line 16
+[13-Jun-2015 19:39:22 UTC] PHP Fatal error:  Class 'App\Http\Middleware\Auth' not found in /home/ambasana2k/public_html/devfiles/app/Http/Middleware/AdminMiddleware.php on line 16
+[13-Jun-2015 19:39:41 UTC] PHP Fatal error:  Class 'App\Http\Middleware\Auth' not found in /home/ambasana2k/public_html/devfiles/app/Http/Middleware/AdminMiddleware.php on line 16
+[13-Jun-2015 19:40:40 UTC] PHP Fatal error:  Class 'App\Http\Middleware\Auth' not found in /home/ambasana2k/public_html/devfiles/app/Http/Middleware/AdminMiddleware.php on line 16
+[13-Jun-2015 19:43:51 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home/ambasana2k/public_html/devfiles/app/Http/Middleware/AdminMiddleware.php on line 5
+[13-Jun-2015 19:44:01 UTC] PHP Fatal error:  Class 'App\Http\Middleware\Auth' not found in /home/ambasana2k/public_html/devfiles/app/Http/Middleware/AdminMiddleware.php on line 16
+[13-Jun-2015 21:22:43 UTC] PHP Fatal error:  Call to undefined function user() in /home/ambasana2k/public_html/devfiles/storage/framework/views/acd5435a22e88cb212cae9e6f806e2b7 on line 151
+[13-Jun-2015 21:23:35 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ambasana2k/public_html/devfiles/storage/framework/views/acd5435a22e88cb212cae9e6f806e2b7 on line 151
+[13-Jun-2015 23:33:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ambasana2k/public_html/devfiles/storage/framework/views/bd3c1a7ff5d2efb68712eb5580804797 on line 212
+[13-Jun-2015 23:33:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ambasana2k/public_html/devfiles/storage/framework/views/bd3c1a7ff5d2efb68712eb5580804797 on line 212
+[14-Jun-2015 19:05:51 UTC] PHP Parse error:  syntax error, unexpected 'utoaddress' (T_STRING) in /home/ambasana2k/public_html/devfiles/storage/framework/views/9de82728f9c0628125b37d9083173cd8 on line 3
+[14-Jun-2015 19:19:23 UTC] PHP Fatal error:  Class 'App\autoaddresses' not found in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/ConfigController.php on line 102
+[14-Jun-2015 19:19:58 UTC] PHP Fatal error:  Class 'App\Http\Controllers\autoaddresses' not found in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/ConfigController.php on line 102
+[15-Jun-2015 19:28:30 UTC] PHP Fatal error:  Call to a member function delete() on a non-object in /home/ambasana2k/public_html/devfiles/app/Http/Controllers/ConfigController.php on line 130
+[16-Jun-2015 12:45:00 UTC] PHP Fatal error:  Class 'Carbon' not found in /home/ambasana2k/public_html/devfiles/storage/framework/views/688c283fb35f82a7049e24424d8ddeec on line 11
+[16-Jun-2015 12:46:47 UTC] PHP Fatal error:  Undefined class constant 'now' in /home/ambasana2k/public_html/devfiles/storage/framework/views/688c283fb35f82a7049e24424d8ddeec on line 13
+[16-Jun-2015 12:47:21 UTC] PHP Fatal error:  Undefined class constant 'now' in /home/ambasana2k/public_html/devfiles/storage/framework/views/688c283fb35f82a7049e24424d8ddeec on line 10
+[16-Jun-2015 12:47:46 UTC] PHP Fatal error:  Undefined class constant 'now' in /home/ambasana2k/public_html/devfiles/storage/framework/views/688c283fb35f82a7049e24424d8ddeec on line 10
+[16-Jun-2015 12:47:54 UTC] PHP Fatal error:  Undefined class constant 'now' in /home/ambasana2k/public_html/devfiles/storage/framework/views/688c283fb35f82a7049e24424d8ddeec on line 10
+[16-Jun-2015 12:47:56 UTC] PHP Fatal error:  Undefined class constant 'now' in /home/ambasana2k/public_html/devfiles/storage/framework/views/688c283fb35f82a7049e24424d8ddeec on line 10
+[16-Jun-2015 15:06:54 Europe/London] PHP Parse error:  syntax error, unexpected ')' in /home/ambasana2k/public_html/devfiles/storage/framework/views/1f919abca3687f3ac3802419031dc6ad on line 106
+[21-Jun-2015 14:42:30 Europe/London] PHP Parse error:  syntax error, unexpected ')' in /home/ambasana2k/public_html/devfiles/storage/framework/views/1f919abca3687f3ac3802419031dc6ad on line 88
+[07-Jul-2015 12:04:41 Europe/London] PHP Parse error:  syntax error, unexpected '?' in /home/ambasana2k/public_html/devfiles/storage/framework/views/07dcdd5b020b6e2fc47e4b38426e3e52 on line 125
+[07-Jul-2015 12:04:56 Europe/London] PHP Fatal error:  Class 'App\Classes\PackpinREST' not found in /home/ambasana2k/public_html/devfiles/storage/framework/views/07dcdd5b020b6e2fc47e4b38426e3e52 on line 64
+[07-Jul-2015 12:06:06 Europe/London] PHP Fatal error:  Class 'App\Classes\PackpinREST' not found in /home/ambasana2k/public_html/devfiles/storage/framework/views/07dcdd5b020b6e2fc47e4b38426e3e52 on line 64
+[07-Jul-2015 12:06:32 Europe/London] PHP Fatal error:  Class 'App\Classes\PackpinREST' not found in /home/ambasana2k/public_html/devfiles/storage/framework/views/07dcdd5b020b6e2fc47e4b38426e3e52 on line 64
+[07-Jul-2015 12:06:55 Europe/London] PHP Fatal error:  Class 'App\Classes\PackpinREST' not found in /home/ambasana2k/public_html/devfiles/storage/framework/views/07dcdd5b020b6e2fc47e4b38426e3e52 on line 64
+[07-Jul-2015 12:08:06 Europe/London] PHP Fatal error:  Class 'App\Classes\PackpinREST' not found in /home/ambasana2k/public_html/devfiles/storage/framework/views/07dcdd5b020b6e2fc47e4b38426e3e52 on line 64
+[07-Jul-2015 12:08:13 Europe/London] PHP Fatal error:  Class 'PackpinREST' not found in /home/ambasana2k/public_html/devfiles/storage/framework/views/07dcdd5b020b6e2fc47e4b38426e3e52 on line 64
+[07-Jul-2015 12:30:55 Europe/London] PHP Parse error:  syntax error, unexpected '?' in /home/ambasana2k/public_html/devfiles/storage/framework/views/07dcdd5b020b6e2fc47e4b38426e3e52 on line 122
+[07-Jul-2015 12:31:04 Europe/London] PHP Fatal error:  Class 'App\Classes\Exception' not found in /home/ambasana2k/public_html/devfiles/app/Classes/packpin.php on line 170
+[07-Jul-2015 12:31:28 Europe/London] PHP Fatal error:  Class 'App\Classes\Exception' not found in /home/ambasana2k/public_html/devfiles/app/Classes/packpin.php on line 170
+[07-Jul-2015 12:31:58 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting catch (T_CATCH) in /home/ambasana2k/public_html/devfiles/storage/framework/views/07dcdd5b020b6e2fc47e4b38426e3e52 on line 102
+[07-Jul-2015 12:32:27 Europe/London] PHP Parse error:  syntax error, unexpected '?>', expecting catch (T_CATCH) in /home/ambasana2k/public_html/devfiles/storage/framework/views/07dcdd5b020b6e2fc47e4b38426e3e52 on line 105
+[07-Jul-2015 12:32:56 Europe/London] PHP Parse error:  syntax error, unexpected '?>', expecting catch (T_CATCH) in /home/ambasana2k/public_html/devfiles/storage/framework/views/07dcdd5b020b6e2fc47e4b38426e3e52 on line 78
+[07-Jul-2015 12:33:13 Europe/London] PHP Parse error:  syntax error, unexpected ';', expecting catch (T_CATCH) in /home/ambasana2k/public_html/devfiles/storage/framework/views/07dcdd5b020b6e2fc47e4b38426e3e52 on line 74
+[07-Jul-2015 12:33:25 Europe/London] PHP Parse error:  syntax error, unexpected '?>', expecting catch (T_CATCH) in /home/ambasana2k/public_html/devfiles/storage/framework/views/07dcdd5b020b6e2fc47e4b38426e3e52 on line 78
+[07-Jul-2015 12:33:34 Europe/London] PHP Parse error:  syntax error, unexpected '@', expecting catch (T_CATCH) in /home/ambasana2k/public_html/devfiles/storage/framework/views/07dcdd5b020b6e2fc47e4b38426e3e52 on line 82
+[07-Jul-2015 12:33:53 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/ambasana2k/public_html/devfiles/storage/framework/views/07dcdd5b020b6e2fc47e4b38426e3e52 on line 83
+[07-Jul-2015 12:37:46 Europe/London] PHP Fatal error:  Class 'App\Classes\Exception' not found in /home/ambasana2k/public_html/devfiles/app/Classes/packpin.php on line 170
+[07-Jul-2015 12:37:53 Europe/London] PHP Fatal error:  Class 'App\Classes\Exception' not found in /home/ambasana2k/public_html/devfiles/app/Classes/packpin.php on line 170
+[07-Jul-2015 12:38:11 Europe/London] PHP Fatal error:  Class 'App\Classes\Exception' not found in /home/ambasana2k/public_html/devfiles/app/Classes/packpin.php on line 170
+[07-Jul-2015 12:38:25 Europe/London] PHP Fatal error:  Class 'App\Classes\Exception' not found in /home/ambasana2k/public_html/devfiles/app/Classes/packpin.php on line 170
+[07-Jul-2015 12:39:39 Europe/London] PHP Fatal error:  Class 'App\Classes\Exception' not found in /home/ambasana2k/public_html/devfiles/app/Classes/packpin.php on line 170
+[07-Jul-2015 12:39:51 Europe/London] PHP Fatal error:  Class 'App\Classes\Exception' not found in /home/ambasana2k/public_html/devfiles/app/Classes/packpin.php on line 170
